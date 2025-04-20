@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../BTM logo full V0 - black on white.png" alt="BTM Logo" width="200">
+  <img src="../logo.png" alt="BTM Logo" width="200">
 </p>
 
 # Brest Thinking Machines (BTM)
