@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.png" alt="BTM Logo" width="200">
+  <img src="../logo.png" alt="BTM Logo" width="600">
 </p>
 
 # Brest Thinking Machines (BTM)
@@ -12,7 +12,7 @@ BTM is focused on fostering innovation, collaboration, and learning in the field
 ## Repositories
 
 ### [workshop-ia-1](https://github.com/BTM-ai/workshop-ia-1)
-Resources for the first **Workshop IA #1**, a hands-on introduction to artificial intelligence concepts and tools (about LangGraph and MCP)
+Resources for **Workshop IA #1**, a hands-on introduction to artificial intelligence concepts and tools (about LangGraph and MCP)
 
 ### [rincewrite](https://github.com/BTM-ai/rincewrite)
 Your unique, wizardly writing assistant, powered by LangGraph and Reflex. Enhance your writing with this AI-driven tool.
