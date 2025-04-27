@@ -2,6 +2,17 @@
   <img src="../logo.png" alt="BTM Logo" width="400">
 </p>
 
+<div>
+  <p align="center">
+    <a href="https://linkedin.com/in/pierre-guirriec-b52372304">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@PierreAtBTM">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+  </p>
+</div>
+
 # Brest Thinking Machines (BTM)
 
 Welcome to the Brest Thinking Machines (BTM) organization! We are innovators and enthusiasts from Brest (and the surrounding areas) dedicated to pushing the boundaries of artificial intelligence, autonomous agents, and related technologies.
